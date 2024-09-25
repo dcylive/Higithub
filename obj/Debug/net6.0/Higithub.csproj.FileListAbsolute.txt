@@ -1,0 +1,15 @@
+D:\vs\vs_dcytext\github_text\Higithub\bin\Debug\net6.0\Higithub.exe
+D:\vs\vs_dcytext\github_text\Higithub\bin\Debug\net6.0\Higithub.deps.json
+D:\vs\vs_dcytext\github_text\Higithub\bin\Debug\net6.0\Higithub.runtimeconfig.json
+D:\vs\vs_dcytext\github_text\Higithub\bin\Debug\net6.0\Higithub.dll
+D:\vs\vs_dcytext\github_text\Higithub\bin\Debug\net6.0\Higithub.pdb
+D:\vs\vs_dcytext\github_text\Higithub\obj\Debug\net6.0\Higithub.csproj.AssemblyReference.cache
+D:\vs\vs_dcytext\github_text\Higithub\obj\Debug\net6.0\Higithub.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs\vs_dcytext\github_text\Higithub\obj\Debug\net6.0\Higithub.AssemblyInfoInputs.cache
+D:\vs\vs_dcytext\github_text\Higithub\obj\Debug\net6.0\Higithub.AssemblyInfo.cs
+D:\vs\vs_dcytext\github_text\Higithub\obj\Debug\net6.0\Higithub.csproj.CoreCompileInputs.cache
+D:\vs\vs_dcytext\github_text\Higithub\obj\Debug\net6.0\Higithub.dll
+D:\vs\vs_dcytext\github_text\Higithub\obj\Debug\net6.0\refint\Higithub.dll
+D:\vs\vs_dcytext\github_text\Higithub\obj\Debug\net6.0\Higithub.pdb
+D:\vs\vs_dcytext\github_text\Higithub\obj\Debug\net6.0\Higithub.genruntimeconfig.cache
+D:\vs\vs_dcytext\github_text\Higithub\obj\Debug\net6.0\ref\Higithub.dll
